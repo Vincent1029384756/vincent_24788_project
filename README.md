@@ -7,7 +7,7 @@ Create a virtual environment and install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Download /data folder from [Google Drive link](https://drive.google.com/drive/folders/1yTi5VA7B8YhvnMYY3wrIkntJulDjxyHm?usp=drive_link), and place it in the root of this repository so the folder structure 
+Download /data folder from [Box link](https://cmu.box.com/s/bcfz1utrgj029bqqh5o7mto4w5b1vb8b), and place it in the root of this repository so the folder structure 
 looks like:
 
 ```
